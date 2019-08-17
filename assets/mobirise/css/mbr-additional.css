@@ -1810,6 +1810,9 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-ryBER7yVbL P {
+  color: #ff3366;
+}
 .cid-ryBHuawkmn {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2285,6 +2288,24 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/nightsky-1929x1150.jpg");
 }
+.cid-rzn0wkDlva {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rzn0wkDlva .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rzn0wkDlva .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rzn0wkDlva .mbr-text {
+  color: #767676;
+}
 .cid-ryC0AuU9pg {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2316,6 +2337,9 @@ body {
 .cid-ryC0Ce1nTz .mbr-text,
 .cid-ryC0Ce1nTz blockquote {
   color: #767676;
+}
+.cid-ryC0Ce1nTz .mbr-text P {
+  text-align: center;
 }
 .cid-ryFQJti4IU {
   padding-top: 90px;
@@ -2461,6 +2485,23 @@ body {
   .cid-ryBZSfVd4j .mbr-text {
     text-align: center !important;
   }
+}
+.cid-ryC0xTqikZ {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/nightsky-1929x1150.jpg");
+}
+.cid-rzmMDW8dID {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rzmMDW8dID .mbr-text,
+.cid-rzmMDW8dID blockquote {
+  color: #767676;
+}
+.cid-rzmMDW8dID DIV {
+  text-align: center;
 }
 .cid-ryBxnBfYSc .navbar {
   background: #ffffff;
@@ -2829,11 +2870,6 @@ body {
   .cid-ryBxnBfYSc .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-ryC0xTqikZ {
-  padding-top: 120px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/nightsky-1929x1150.jpg");
 }
 .cid-ryC0AuU9pg {
   padding-top: 30px;
