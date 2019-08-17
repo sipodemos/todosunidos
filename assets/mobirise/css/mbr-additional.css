@@ -11255,6 +11255,24 @@ body {
     text-align: center !important;
   }
 }
+.cid-rznprfJKi1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rznprfJKi1 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rznprfJKi1 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rznprfJKi1 .mbr-text {
+  color: #767676;
+}
 .cid-ryBPypwXX7 {
   padding-top: 75px;
   padding-bottom: 60px;
