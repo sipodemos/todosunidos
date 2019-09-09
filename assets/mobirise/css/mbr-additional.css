@@ -13118,6 +13118,14 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/nightsky-1929x1150.jpg");
 }
+.cid-rBCuRGGX9p {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rBCuRGGX9p .mbr-text {
+  color: #767676;
+}
 .cid-ryBxnBfYSc .navbar {
   background: #ffffff;
   transition: none;
@@ -13484,29 +13492,6 @@ body {
 @media (min-width: 767px) {
   .cid-ryBxnBfYSc .menu-logo {
     flex-shrink: 0;
-  }
-}
-.cid-ryC0AuU9pg {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-ryC0AuU9pg .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-ryC0AuU9pg .section-text {
-  padding: 2rem 0;
-}
-.cid-ryC0AuU9pg .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-ryC0AuU9pg .inner-container {
-    width: 100% !important;
   }
 }
 .cid-ryC0Ce1nTz {
